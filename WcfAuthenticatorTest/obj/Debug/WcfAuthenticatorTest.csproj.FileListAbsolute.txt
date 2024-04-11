@@ -1,0 +1,7 @@
+C:\Users\yair_rodriguez\source\repos\WcfAuthenticatorTest\WcfAuthenticatorTest\bin\WcfAuthenticatorTest.dll.config
+C:\Users\yair_rodriguez\source\repos\WcfAuthenticatorTest\WcfAuthenticatorTest\bin\WcfAuthenticatorTest.dll
+C:\Users\yair_rodriguez\source\repos\WcfAuthenticatorTest\WcfAuthenticatorTest\bin\WcfAuthenticatorTest.pdb
+C:\Users\yair_rodriguez\source\repos\WcfAuthenticatorTest\WcfAuthenticatorTest\obj\Debug\WcfAuthenticatorTest.csproj.AssemblyReference.cache
+C:\Users\yair_rodriguez\source\repos\WcfAuthenticatorTest\WcfAuthenticatorTest\obj\Debug\WcfAuthenticatorTest.csproj.CoreCompileInputs.cache
+C:\Users\yair_rodriguez\source\repos\WcfAuthenticatorTest\WcfAuthenticatorTest\obj\Debug\WcfAuthenticatorTest.dll
+C:\Users\yair_rodriguez\source\repos\WcfAuthenticatorTest\WcfAuthenticatorTest\obj\Debug\WcfAuthenticatorTest.pdb

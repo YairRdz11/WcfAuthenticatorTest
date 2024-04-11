@@ -1,0 +1,10 @@
+C:\Users\yair_rodriguez\source\repos\WcfAuthenticatorTest\ClientApplication\bin\Debug\ClientApplication.exe.config
+C:\Users\yair_rodriguez\source\repos\WcfAuthenticatorTest\ClientApplication\bin\Debug\ClientApplication.exe
+C:\Users\yair_rodriguez\source\repos\WcfAuthenticatorTest\ClientApplication\bin\Debug\ClientApplication.pdb
+C:\Users\yair_rodriguez\source\repos\WcfAuthenticatorTest\ClientApplication\obj\Debug\ClientApplication.csproj.AssemblyReference.cache
+C:\Users\yair_rodriguez\source\repos\WcfAuthenticatorTest\ClientApplication\obj\Debug\ClientApplication.Form1.resources
+C:\Users\yair_rodriguez\source\repos\WcfAuthenticatorTest\ClientApplication\obj\Debug\ClientApplication.Properties.Resources.resources
+C:\Users\yair_rodriguez\source\repos\WcfAuthenticatorTest\ClientApplication\obj\Debug\ClientApplication.csproj.GenerateResource.cache
+C:\Users\yair_rodriguez\source\repos\WcfAuthenticatorTest\ClientApplication\obj\Debug\ClientApplication.csproj.CoreCompileInputs.cache
+C:\Users\yair_rodriguez\source\repos\WcfAuthenticatorTest\ClientApplication\obj\Debug\ClientApplication.exe
+C:\Users\yair_rodriguez\source\repos\WcfAuthenticatorTest\ClientApplication\obj\Debug\ClientApplication.pdb
